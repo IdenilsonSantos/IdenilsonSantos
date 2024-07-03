@@ -1,23 +1,40 @@
-<h3 align="center">Olá, Sou Idenilson Santos <img alt="Oi Sou Idenilson!" width="25px" src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/></h3>
+# Olá, Sou Idenilson 👋
 
-<p align="center">
-<a href="https://www.linkedin.com/in/idenilsonoliveiradv/" target="blank" alt="linkedin"><img align="center" style="margin: 2px" width="100px" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-</br>Vamos conversar :)
-</p>
-
-</br>
-
-Olá, Tudo bem ?<br>
+Olá, Tudo bem ?
 Meu nome é Idenilson Santos de Oliveira.
-<br>
-Sou de Telêmaco Borba/PR - Brasil, graduado em Análise e Desenvolvimento de Sistemas pelo IFPR.<br>
+Sou de Telêmaco Borba/PR - Brasil, graduado em Análise e Desenvolvimento de Sistemas pelo IFPR.
 Entusiasta de novas tecnologias que possam melhorar a vida das pessoas e consequentemente o mundo em que vivemos.
 
-Em meu tempo livre vejo séries e  filmes, leio livros e ouço podcasts.
+Em meu tempo livre vejo séries e filmes, leio e ouço podcasts.
 
-Estou em constante aprendizado e em busca de aperfeiçoamento pessoa e profissional <br>
-📫 Você pode me encontrar também em **idenilsonoliveira.santos@gmail.com** <br><br>
+Estou em constante aprendizado e em busca de aperfeiçoamento pessoal e profissional
+- 🔭 Atualmente atuo com desenvolvedor fullstack com foco em frontend.
+- 🌱 Fortalecendo conceitos :  Tailwind, NextJS.
+- 💬 Me pergunte sobre: JavaScript, React, CSS.
+- 📫 Onde voce pode me encontrar:  <a href="mailto:idenilsonoliveira.santos@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/idenilsonsantosoliveira/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=idenilsonsantos&show_icons=true" alt="idenilsonsantos" />
+## Tecnologias que uso
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>
+
+## Github stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=idenilsonsantos&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=idenilsonsantos&theme=dark" width="48%" >
+  
+  
+## Top Linguagens
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+  
